@@ -12,5 +12,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: jesuislegendaire
-        password: @xCX6qzGGkt6v$x^@3BW
+        password: jesuislegendaire
         server-dir : public_html/
